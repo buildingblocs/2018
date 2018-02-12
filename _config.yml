@@ -1,0 +1,14 @@
+#baseurl: "/2017"
+
+title: "BuildingBloCS"
+tagline: "High School Computer Science Conference"
+date: "1 - 2 June"
+location: "NUS SoC COM1"
+
+exclude:
+  - README.md
+  - assets/sass
+  - package.json
+  - package-lock.json
+  - node_modules/
+  - Gruntfile.js

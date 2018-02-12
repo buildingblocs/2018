@@ -1,0 +1,24 @@
+- day: 1
+  activities:
+  - time: 0800-0900
+    title: Registration
+  - time: 0900-1000
+    title: Talks
+  - time: 1000-1045
+    title: Games
+  - time: 1045-1200
+    title: Lightning Talks
+  - time: 1200-1300
+    title: Lunch
+- day: 2
+  activities:
+  - time: 0800-0900
+    title: Registration
+  - time: 0900-1000
+    title: Talks
+  - time: 1000-1045
+    title: Games
+  - time: 1045-1200
+    title: Lightning Talks
+  - time: 1200-1300
+    title: Lunch
