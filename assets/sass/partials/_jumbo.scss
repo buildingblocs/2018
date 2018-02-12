@@ -2,8 +2,8 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: calc(100vh - 6.4rem - 5.6rem);
-    min-height: 42rem;
+    height: calc(100vh - 6.4rem - 6.4rem);
+    min-height: 48rem;
 
     text-align: center;
     @include font-size(large);
@@ -13,5 +13,11 @@
     }
     .huge {
         font-size: 2.4em;
+    }
+}
+
+@media screen and (max-width: 380px) {
+    .jumbo {
+        @include font-size(medium);
     }
 }
