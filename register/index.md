@@ -6,4 +6,4 @@ layout: default
 
 *Registriation opens in March. Check back soon!*
 
-[Contact us](/contact) if you have any enquiries.
+[Contact us]({{ site.baseurl }}/contact) if you have any enquiries.
