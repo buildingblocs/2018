@@ -23,7 +23,7 @@ $font-families: (
 	brand: ("Barlow Condensed", "Helvetica Neue", "Helvetica", "sans-serif"),
 	nav: ("Barlow Condensed", "Helvetica Neue", "Helvetica", "sans-serif"),
 	heading: ("Barlow Condensed", "Helvetica Neue", "Helvetica", "sans-serif"),
-	mono: ("Roboto Mono", "Menlo", "Monaco", "monospace")
+	mono: ("Source Code Pro", "Monaco", "monospace")
 );
 
 @mixin font-family($type: default) {

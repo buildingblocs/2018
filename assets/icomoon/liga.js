@@ -25,10 +25,15 @@
     var icons;
     if (!supportsProperty('fontFeatureSettings')) {
         icons = {
-            'buildingblocs': '&#x25a0;',
+            'BuildingBloCS': '&#x25a0;',
+            'logo': '&#x25a0;',
+            'Bookmark': '&#xe901;',
             'bookmark': '&#xe901;',
+            'GitHub': '&#xe911;',
             'github': '&#xe911;',
+            'Instagram': '&#xe912;',
             'instagram': '&#xe912;',
+            'Menu': '&#xe900;',
             'menu': '&#xe900;',
           '0': 0
         };

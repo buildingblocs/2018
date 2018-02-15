@@ -25,7 +25,7 @@
         "name": "logo",
         "prevSize": 32,
         "code": 9632,
-        "ligatures": "buildingblocs"
+        "ligatures": "BuildingBloCS, logo"
       },
       "setIdx": 0,
       "setId": 1,
@@ -51,7 +51,7 @@
         "prevSize": 24,
         "code": 59649,
         "name": "bookmark",
-        "ligatures": "bookmark"
+        "ligatures": "Bookmark, bookmark"
       },
       "setIdx": 1,
       "setId": 0,
@@ -77,7 +77,7 @@
         "prevSize": 24,
         "code": 59665,
         "name": "github",
-        "ligatures": "github"
+        "ligatures": "GitHub, github"
       },
       "setIdx": 1,
       "setId": 0,
@@ -105,7 +105,7 @@
         "prevSize": 24,
         "code": 59666,
         "name": "instagram",
-        "ligatures": "instagram"
+        "ligatures": "Instagram, instagram"
       },
       "setIdx": 1,
       "setId": 0,
@@ -133,7 +133,7 @@
         "prevSize": 24,
         "name": "menu",
         "code": 59648,
-        "ligatures": "menu"
+        "ligatures": "Menu, menu"
       },
       "setIdx": 1,
       "setId": 0,

@@ -39,36 +39,31 @@ $link-spacing: 0.333333em;
         @include font-size(normal);
 	}
 
-	.menu {
+    [for=menu],
+    #menu {
 		display: none;
 	}
 
 	@media screen and (max-width: 560px) {
-		.menu {
-			display: block;
-			background: none;
-			appearance: none;
-			outline: none;
-			border: none;
-			font-size: 1em;
-			width: 1em;
-			height: 1em;
-			color: inherit;
-
-			&:checked + .links {
-				pointer-events: auto;
-				height: 1.6em;
-                opacity: 1;
-			}
-		}
-
 		.links {
 			width: 100%;
-			pointer-events: none;
 			transition: 0.6s height, 0.6s opacity;
+			pointer-events: none;
 			height: 0em;
             opacity: 0;
 		}
+        
+		[for=menu] {
+			display: inline;
+            cursor: pointer;
+            margin: -1em;
+            padding: 1em;
+		}
+        #menu:checked + .links {
+            pointer-events: auto;
+            height: 1.7em;
+            opacity: 1;
+        }
 	}
 
     // Animations
