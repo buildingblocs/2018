@@ -26,13 +26,13 @@ yarn install
 Start `grunt` (tool to build `.scss` to `.css`) and make it watch for file changes:
 
 ```
-yarn run build watch
+yarn build watch
 ```
 
 If you want to just build and exit, do:
 
 ```
-yarn run build
+yarn build
 ```
 
 ### Serve the local website
