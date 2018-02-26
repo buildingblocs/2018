@@ -7,6 +7,7 @@
 
 1. [Jekyll](https://jekyllrb.com/docs/installation/)
 2. [Node.js](https://nodejs.org/)
+3. [Yarn](https://yarnpkg.com/)
 
 ### Setup
 
@@ -14,24 +15,24 @@
 git clone -b mybranch --single-branch git@github.com:serverwentdown/buildingblocs.github.io.git
 ```
 
-Install `grunt` tool:
-
-```
-npm install -g grunt
-```
-
 Install project dependencies:
 
 ```
-npm install
+yarn install
 ```
 
 ### Building CSS from Sass
 
-Start `grunt` and make it watch for `.scss` file changes:
+Start `grunt` (tool to build `.scss` to `.css`) and make it watch for file changes:
 
 ```
-grunt watch
+yarn run build watch
+```
+
+If you want to just build and exit, do:
+
+```
+yarn run build
 ```
 
 ### Serve the local website

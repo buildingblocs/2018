@@ -1,6 +1,9 @@
 {
   "name": "buildingblocs",
   "version": "0.1.0",
+  "scripts": {
+      "build": "./node_modules/grunt-cli/bin/grunt"
+  },
   "devDependencies": {
     "grunt-cli": "~1.2.0",
     "grunt": "~1.0.1",
