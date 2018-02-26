@@ -18,11 +18,14 @@ $font-sizes: (
 	font-size: map-get($font-sizes, $type);
 }
 
+$font-family-body: ("Source Sans Pro", "Avenir Next", "Tahoma", "sans-serif");
+$font-family-head: ("Barlow Condensed", "Avenir Next Condensed", "Franklin Gothic Medium", "sans-serif");
+
 $font-families: (
-	default: ("Source Sans Pro", "Avenir Next", "Arial", "sans-serif"),
-	brand: ("Barlow Condensed", "Avenir Next Condensed", "Impact", "sans-serif"),
-	nav: ("Barlow Condensed", "Avenir Next Condensed", "Impact", "sans-serif"),
-	heading: ("Barlow Condensed", "Avenir Next Condensed", "Impact", "sans-serif"),
+	default: $font-family-body,
+	brand: $font-family-head,
+	nav: $font-family-head,
+	heading: $font-family-head,
 	mono: ("Source Code Pro", "Monaco", "monospace")
 );
 
@@ -30,15 +33,17 @@ $font-families: (
 	font-family: map-get($font-families, $type);
 }
 
+$font-type-body: (style: normal, weight: 400);
+$font-type-head: (style: normal, weight: 500);
+
 $font-types: (
-	default: (style: normal, weight: 400),
-	brand: (style: normal, weight: 500),
-	nav: (style: normal, weight: 500),
-	heading: (style: normal, weight: 500),
+	default: $font-type-body,
+	brand: $font-type-head,
+	nav: $font-type-head,
+	heading: $font-type-head,
 	link: (style: inherit, weight: inherit),
 	bold: (style: inherit, weight: 700),
 	italic: (style: italic, weight: inherit),
-	bolditalic: (style: italic, weight: 700), // should not be used
 	blockquote: (style: italic, weight: inherit),
 );
 
