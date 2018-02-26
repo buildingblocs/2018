@@ -19,10 +19,10 @@ $font-sizes: (
 }
 
 $font-families: (
-	default: ("Source Sans Pro", "Helvetica Neue", "Helvetica", "sans-serif"),
-	brand: ("Barlow Condensed", "Helvetica Neue", "Helvetica", "sans-serif"),
-	nav: ("Barlow Condensed", "Helvetica Neue", "Helvetica", "sans-serif"),
-	heading: ("Barlow Condensed", "Helvetica Neue", "Helvetica", "sans-serif"),
+	default: ("Source Sans Pro", "Avenir Next", "Arial", "sans-serif"),
+	brand: ("Barlow Condensed", "Avenir Next Condensed", "Impact", "sans-serif"),
+	nav: ("Barlow Condensed", "Avenir Next Condensed", "Impact", "sans-serif"),
+	heading: ("Barlow Condensed", "Avenir Next Condensed", "Impact", "sans-serif"),
 	mono: ("Source Code Pro", "Monaco", "monospace")
 );
 
@@ -31,9 +31,9 @@ $font-families: (
 }
 
 $font-types: (
+	default: (style: normal, weight: 400),
 	brand: (style: normal, weight: 500),
 	nav: (style: normal, weight: 500),
-	default: (style: normal, weight: 400),
 	heading: (style: normal, weight: 500),
 	link: (style: inherit, weight: inherit),
 	bold: (style: inherit, weight: 700),

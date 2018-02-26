@@ -7,3 +7,9 @@ main,
 	//max-width: calc(56rem + 20vw);
 	max-width: calc(48rem + 20vw);
 }
+
+@media screen and (max-width: 350px) {
+    html {
+        font-size: $base-unit * 0.9;
+    }
+}
