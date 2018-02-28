@@ -28,7 +28,7 @@ Python powered web-pages! Experience how to set up server-side renders to host t
 
 ## Format
 
-This year, due to resource constraints, this website will home the pre-event which starts in March!
+Continuing the success of previous years, 2018 sees the expansion of Buildingblocs in various sectors! This year, Buildingblocs have extended its target audience to both A-level and O-level students, allowing for more diverse interactions. Pre-Events leading up to the official event will also be held to enhance students' learning (and increase chance of winnings ;)). 
 
 ## Pre-Event
 
@@ -36,7 +36,7 @@ Here is where the event lives! Workshop materials and potentially competition an
 
 ## Event
 
-The home. Where the heart of the event is; The fringe games, competition and prizes ceremony happens here, at NUS School of Computing! [More details &raquo;]({{ site.baseurl }}/event)
+The home. Where the heart of the event is; The fringe games, competition and prizes ceremony happens here, at NUS School of Computing! This year's Buildingblocs is also held in conjuction with "Python APAC 2018", making it a rare opportunity not to be missed.  [More details &raquo;]({{ site.baseurl }}/event)
 
 ## Brought to you by
 
