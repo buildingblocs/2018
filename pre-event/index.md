@@ -4,9 +4,13 @@ layout: default
 
 # Pre-event
 
+Held from March to July, the Pre-Event is a special addition to Buildingblocs 2018. It is a separate component from the main event but serves as a lead-up to the event by improving participants' coding proficiency.
+
 ## Coursemology
 
-Use Project Euler questions to hone participants’ Python programming skills and mathematical knowledge
+Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! Links to the Coursemology challenges will be uploaded here in March. Do check back soon!
+
+[Click here](tinyurl.com/bbcs18euler) to sign up for the Coursemology!
 
 ## Online workshop
 
