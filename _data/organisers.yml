@@ -24,4 +24,12 @@
   img: sch/rp.png
 - title: River Valley High School
   img: sch/rvhs.png
+  - title: National University of Singapore
+  img: sch/nus.jpg
+-title: FOSSASIA
+  img: sponsors/fossasia.png
+-title: Google
+  img: sponsors/google.png  
+-title: Ministry of Education, Singapore 
+  img: sponsors/moe.png
 
