@@ -13,7 +13,7 @@ layout: default
             Online pre-event begins March
         </p>
         <p>
-            <a class="btn disabled" href="{{ site.baseurl }}/register">Register now!</a>
+            <a class="btn enabled" href="{{ site.baseurl }}/register">Register now!</a>
         </p>
     </div>
 </section>
