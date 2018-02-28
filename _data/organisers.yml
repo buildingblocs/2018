@@ -1,7 +1,5 @@
 - title: Angolo-Chinese Junior College
   img: sch/acjc.png
-- title: National University of Singapore
-  img: sch/nus.jpg
 - title: Dunman High School
   img: sch/dhs.png
 - title: Hwa Chong Institution
@@ -12,10 +10,12 @@
   img: sch/jjc.png
 - title: National Junior College
   img: sch/njc.png
-- title: NUS High School
-  img: sch/nushs.png
+- title: Nanyang Junior College
+  img: sch/nyjc.png
 - title: Nanyang Polytechnic
   img: sch/nyp.png
+- title: NUS High School
+  img: sch/nushs.png
 - title: Pioneer Junior College
   img: sch/pjc.png
 - title: Raffles Institution
@@ -24,5 +24,6 @@
   img: sch/rp.png
 - title: River Valley High School
   img: sch/rvhs.png
-- title: Nanyang Junior College
-  img: sch/nyjc.png
+  
+- title: National University of Singapore
+  img: sch/nus.jpg
