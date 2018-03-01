@@ -34,7 +34,7 @@ Here is where the event lives! **Workshop materials, quizzes, fun facts and the 
 
 The home. Where the heart of the event is; A line up of **fringe games, lightning talks and a final competition** are to be conducted on the **1-2 June at the NUS School of Computing**! The event will close with a **Lucky Draw Segment** and a **Prize Ceremony** to end the event  with a bang. This year's BuildingBloCS will also be held in conjuction with **"Python APAC 2018"**, making it a rare opportunity not to be missed.  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
-##
+#
 
 ## Organised by
 
@@ -43,6 +43,8 @@ The home. Where the heart of the event is; A line up of **fringe games, lightnin
     <img src="{{ site.baseurl }}/assets/img/{{ organiser.img }}" title="{{ organiser.title }}" />
     {% endfor %}
 </section>
+
+#
 
 ## Supported by
 
