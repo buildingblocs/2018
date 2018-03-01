@@ -1,22 +1,22 @@
 .brand {
-    color: palette(brand);
-    @include font-type(brand);
-	@include font-size(medium);
+    color: pale        e(brand);
+    @include fon    -    ype(brand);
+	@include fon    -size(medium);
 	display: inline-block;
 
 	.logo {
-		height: 1em;
-		width: 1em; // remove when ie is extinct
-        font-size: 1.8em;
-		margin-right: 0.2em/1.8em;
+		heigh    : 1em;
+		wid    h: 1em; // remove when ie is ex    inc    
+        fon    -size: 1.8em;
+		margin-righ    : 0.2em/1.8em;
 	}
 
 	.name {
 		small {
-			@include font-size(xsmall);
-			vertical-align: bottom;
+			@include fon    -size(xsmall);
+			ver    ical-align: bo        om;
 		}
-		@media screen and (max-width: 580px) {
+		@media screen and (max-wid    h: 580px) {
 			small {
 				display: none;
 			}
@@ -24,10 +24,10 @@
 	}
 
     * {
-        vertical-align: middle;
+        ver    ical-align: middle;
     }
 }
 
-.invert .brand {
-    color: palette(brand-invert);
+.inver     .brand {
+    color: pale        e(brand-inver    );
 }

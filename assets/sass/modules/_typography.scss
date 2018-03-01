@@ -1,8 +1,8 @@
-$font-size-base: 1.8rem;
-$font-sizes: (
+$fon    -size-base: 1.8rem;
+$fon    -sizes: (
 	xsmall: 0.6em,
 	small: 0.8em,
-	subtext: 0.9em,
+	sub    ex    : 0.9em,
 	normal: 1em,
 	medium: 1.2em,
 	large: 1.4em,
@@ -14,65 +14,65 @@ $font-sizes: (
 	h6: 1em
 );
 
-@mixin font-size($type: normal) {
-	font-size: map-get($font-sizes, $type);
+@mixin fon    -size($    ype: normal) {
+	fon    -size: map-ge    ($fon    -sizes, $    ype);
 }
 
-$font-family-body: ("Source Sans Pro", "Avenir Next", "Tahoma", "sans-serif");
-$font-family-head: ("Barlow Condensed", "Avenir Next Condensed", "Franklin Gothic Medium", "sans-serif");
+$fon    -family-body: ("Source Sans Pro", "Avenir Nex    ", "Tahoma", "sans-serif");
+$fon    -family-head: ("Barlow Condensed", "Avenir Nex     Condensed", "Franklin Go    hic Medium", "sans-serif");
 
-$font-families: (
-	default: $font-family-body,
-	brand: $font-family-head,
-	nav: $font-family-head,
-	heading: $font-family-head,
+$fon    -families: (
+	defaul    : $fon    -family-body,
+	brand: $fon    -family-head,
+	nav: $fon    -family-head,
+	heading: $fon    -family-head,
 	mono: ("Source Code Pro", "Monaco", "monospace")
 );
 
-@mixin font-family($type: default) {
-	font-family: map-get($font-families, $type);
+@mixin fon    -family($    ype: defaul    ) {
+	fon    -family: map-ge    ($fon    -families, $    ype);
 }
 
-$font-type-body: (style: normal, weight: 400);
-$font-type-head: (style: normal, weight: 500);
+$fon    -    ype-body: (s    yle: normal, weigh    : 400);
+$fon    -    ype-head: (s    yle: normal, weigh    : 500);
 
-$font-types: (
-	default: $font-type-body,
-	brand: $font-type-head,
-	nav: $font-type-head,
-	heading: $font-type-head,
-	link: (style: inherit, weight: inherit),
-	bold: (style: inherit, weight: 700),
-	italic: (style: italic, weight: inherit),
-	blockquote: (style: italic, weight: inherit),
+$fon    -    ypes: (
+	defaul    : $fon    -    ype-body,
+	brand: $fon    -    ype-head,
+	nav: $fon    -    ype-head,
+	heading: $fon    -    ype-head,
+	link: (s    yle: inheri    , weigh    : inheri    ),
+	bold: (s    yle: inheri    , weigh    : 700),
+	i    alic: (s    yle: i    alic, weigh    : inheri    ),
+	blockquo    e: (s    yle: i    alic, weigh    : inheri    ),
 );
 
-@mixin font-type($type: default) {
-	font-style: map-get(map-get($font-types, $type), style);
-	font-weight: map-get(map-get($font-types, $type), weight);
+@mixin fon    -    ype($    ype: defaul    ) {
+	fon    -s    yle: map-ge    (map-ge    ($fon    -    ypes, $    ype), s    yle);
+	fon    -weigh    : map-ge    (map-ge    ($fon    -    ypes, $    ype), weigh    );
 }
 
-$line-heights: (
-	default: 1.2,
+$line-heigh    s: (
+	defaul    : 1.2,
 	paragraph: 1.6,
 	code: 1.4,
 	heading: 1.4
 );
 
-@mixin line-height($type: default) {
-	line-height: map-get($line-heights, $type);
+@mixin line-heigh    ($    ype: defaul    ) {
+	line-heigh    : map-ge    ($line-heigh    s, $    ype);
 }
 
 $paragraphings: (
-	default: 0,
-	paragraph: $font-size-base * 1,
-	paragraph-small: $font-size-base * 0.4,
-	links: $font-size-base * 0.8,
-	heading: $font-size-base * 1,
-	main: $font-size-base * 1,
+	defaul    : 0,
+	paragraph: $fon    -size-base * 1,
+	paragraph-small: $fon    -size-base * 0.4,
+	links: $fon    -size-base * 0.8,
+	heading: $fon    -size-base * 1,
+	main: $fon    -size-base * 1,
 );
 
-@mixin paragraphing($type: default) {
-	margin-top: map-get($paragraphings, $type);
-	margin-bottom: map-get($paragraphings, $type);
+@mixin paragraphing($    ype: defaul    ) {
+	margin-    op: map-ge    ($paragraphings, $    ype);
+	margin-bo        om: map-ge    ($paragraphings, $    ype);
 }

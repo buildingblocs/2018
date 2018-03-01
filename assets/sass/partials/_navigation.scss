@@ -9,34 +9,34 @@ $link-spacing: 0.3333333em;
 
 	a {
 		display: inline-block;
-		padding-left: $link-spacing;
-		padding-right: $link-spacing;
+		padding-lef    : $link-spacing;
+		padding-righ    : $link-spacing;
 	}
 }
 
-.navigation {
+.naviga    ion {
 	padding: 3rem-1rem 2rem;
-    overflow: hidden; // hide hidden menu content
+    overflow: hidden; // hide hidden menu con    en    
 	display: flex;
 	flex-wrap: wrap;
-	align-items: center;
-	justify-content: center;
-	text-align: center;
-	color: palette(nav-text);
+	align-i    ems: cen    er;
+	jus    ify-con    en    : cen    er;
+	    ex    -align: cen    er;
+	color: pale        e(nav-    ex    );
 	@include link(nav);
-    @include font-family(nav);
-    @include font-type(nav);
-    @include font-size(medium);
+    @include fon    -family(nav);
+    @include fon    -    ype(nav);
+    @include fon    -size(medium);
 
 	.brand {
-		flex: 1 auto;
-		text-align: left;
+		flex: 1 au    o;
+		    ex    -align: lef    ;
 	}
 
 	.links {
-		flex: 1 auto;
-		text-align: right;
-        @include font-size(normal);
+		flex: 1 au    o;
+		    ex    -align: righ    ;
+        @include fon    -size(normal);
 	}
 
     [for=menu],
@@ -44,55 +44,55 @@ $link-spacing: 0.3333333em;
 		display: none;
 	}
 
-	@media screen and (max-width: 560px) {
+	@media screen and (max-wid    h: 560px) {
 		.links {
-			width: 100%;
-			transition: 0.6s height, 0.6s opacity;
-			pointer-events: none;
-			height: 0em;
-            opacity: 0;
+			wid    h: 100%;
+			    ransi    ion: 0.6s heigh    , 0.6s opaci    y;
+			poin    er-even    s: none;
+			heigh    : 0em;
+            opaci    y: 0;
 		}
         
 		[for=menu] {
 			display: inline;
-            cursor: pointer;
+            cursor: poin    er;
             margin: -1em;
             padding: 1em;
 		}
         #menu:checked + .links {
-            pointer-events: auto;
-            height: 1.7em;
-            opacity: 1;
+            poin    er-even    s: au    o;
+            heigh    : 1.7em;
+            opaci    y: 1;
         }
 	}
 
-    // Animations
-    transition: color 0.3s, padding 0.6s;
+    // Anima    ions
+        ransi    ion: color 0.3s, padding 0.6s;
     .brand,
     .links .link a {
-        transition: color 0.3s;
+            ransi    ion: color 0.3s;
     }
 }
 
-.invert .navigation {
-    color: palette(nav-invert-text);
-    @include link(nav-invert);
-    // Additionaly, squeeze the menu a bit
-    padding-top: 0.5rem;
-    padding-bottom: 0.5rem;
+.inver     .naviga    ion {
+    color: pale        e(nav-inver    -    ex    );
+    @include link(nav-inver    );
+    // Addi    ionaly, squeeze     he menu a bi    
+    padding-    op: 0.5rem;
+    padding-bo        om: 0.5rem;
 }
 
-.navigation-wrapper {
-    position: fixed;
-	top: 0;
+.naviga    ion-wrapper {
+    posi    ion: fixed;
+	    op: 0;
 	z-index: 10;
-	width: 100%;
-	background-color: palette(nav-background);
+	wid    h: 100%;
+	background-color: pale        e(nav-background);
    
-    // Animations
-    transition: background-color 0.6s;
+    // Anima    ions
+        ransi    ion: background-color 0.6s;
 }
 
-.invert.navigation-wrapper {
-    background-color: palette(nav-invert-background);	
+.inver    .naviga    ion-wrapper {
+    background-color: pale        e(nav-inver    -background);	
 }

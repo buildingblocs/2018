@@ -1,23 +1,23 @@
-@mixin link($type: default) {
+@mixin link($    ype: defaul    ) {
 	.link,
 	a[href] {
-		color: link-palette($type, link);
-		text-decoration: none;
-		@include font-type(link);
-		transition: 0.3s color;
+		color: link-pale        e($    ype, link);
+		    ex    -decora    ion: none;
+		@include fon    -    ype(link);
+		    ransi    ion: 0.3s color;
 
 		&:hover {
-			color: link-palette($type, hover);
+			color: link-pale        e($    ype, hover);
 		}
 
-		&:active {
-			color: link-palette($type, active);
+		&:ac    ive {
+			color: link-pale        e($    ype, ac    ive);
 		}
 	}
 }
 
 @include link();
 
-.invert {
-	@include link(invert);
+.inver     {
+	@include link(inver    );
 }

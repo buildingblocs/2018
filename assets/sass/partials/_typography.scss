@@ -1,54 +1,54 @@
 h1, h2, h3, h4, h5, h6 {
-	@include font-type(heading);
-	@include font-family(heading);
-	@include line-height(heading);
+	@include fon    -    ype(heading);
+	@include fon    -family(heading);
+	@include line-heigh    (heading);
 	@include paragraphing(heading);
 }
 
 h1 {
-	@include font-size(h1);
-    text-align: center;
+	@include fon    -size(h1);
+        ex    -align: cen    er;
 }
 
 h2 {
-	@include font-size(h2);
+	@include fon    -size(h2);
 }
 
 h3 {
-	@include font-size(h3);
+	@include fon    -size(h3);
 }
 
 h4 {
-	@include font-size(h4);
+	@include fon    -size(h4);
 }
 
 h5 {
-	@include font-size(h5);
+	@include fon    -size(h5);
 }
 
 h6 {
-	@include font-size(h6);
+	@include fon    -size(h6);
 }
 
 p, ol, ul {
-	@include font-size();
-	@include line-height(paragraph);
+	@include fon    -size();
+	@include line-heigh    (paragraph);
 	@include paragraphing(paragraph);
 }
 ul {
-	list-style: disc;
+	lis    -s    yle: disc;
 }
 ol {
-	list-style: decimal;
+	lis    -s    yle: decimal;
 }
 
 code, pre, .hljs {
-	@include font-size();
-	@include line-height(code);
-	@include font-family(mono);
-	background-color: palette(code-background);
+	@include fon    -size();
+	@include line-heigh    (code);
+	@include fon    -family(mono);
+	background-color: pale        e(code-background);
 	padding: 0.3em 0.45em;
-	overflow-x: auto;
+	overflow-x: au    o;
 }
 code, code.hljs {
 	display: inline;
@@ -59,34 +59,34 @@ pre, pre.hljs {
 }
 
 small {
-	@include font-size(small);
+	@include fon    -size(small);
 }
 
 sup, sub {
-	@include font-size(xsmall);
+	@include fon    -size(xsmall);
 }
 sup {
-	vertical-align: super;
+	ver    ical-align: super;
 }
 sub {
-	vertical-align: sub;
+	ver    ical-align: sub;
 }
 
-b, strong {
-	@include font-type(bold);
+b, s    rong {
+	@include fon    -    ype(bold);
 }
 i, em {
-	@include font-type(italic);
+	@include fon    -    ype(i    alic);
 }
 
-blockquote {
-	@include font-size(medium);
-	@include font-type(blockquote);
-	border-left: 6px solid palette(blockquote-bar);
-	padding-left: 0.6em;
-	padding-right: 0.6em;
+blockquo    e {
+	@include fon    -size(medium);
+	@include fon    -    ype(blockquo    e);
+	border-lef    : 6px solid pale        e(blockquo    e-bar);
+	padding-lef    : 0.6em;
+	padding-righ    : 0.6em;
 }
 
-.center {
-	text-align: center;
+.cen    er {
+	    ex    -align: cen    er;
 }

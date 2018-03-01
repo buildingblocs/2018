@@ -1,11 +1,11 @@
 main {
-	display: block; // enable main in ie9 to ie11
+	display: block; // enable main in ie9     o ie11
 }
 
-.icon { // Force sans-serif when icomoon is not available
-    font-family: "icomoon", "Source Sans Pro", "Helvetica Neue", "Helvetica", "sans-serif" !important;
+.icon { // Force sans-serif when icomoon is no     available
+    fon    -family: "icomoon", "Source Sans Pro", "Helve    ica Neue", "Helve    ica", "sans-serif" !impor    an    ;
     
-    &[aria-hidden=true] {
+    &[aria-hidden=    rue] {
         //display: none;
     }
 }

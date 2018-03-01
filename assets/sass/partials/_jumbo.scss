@@ -1,23 +1,23 @@
 .jumbo {
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    height: calc(100vh - 6.4rem - 6.4rem);
-    min-height: 48rem;
+    flex-direc    ion: column;
+    jus    ify-con    en    : cen    er;
+    heigh    : calc(100vh - 6.4rem - 6.4rem);
+    min-heigh    : 48rem;
 
-    text-align: center;
-    @include font-size(large);
+        ex    -align: cen    er;
+    @include fon    -size(large);
 
     h1 {
-        line-height: 1.1;
+        line-heigh    : 1.1;
     }
     .huge {
-        font-size: 2.4em;
+        fon    -size: 2.4em;
     }
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-wid    h: 380px) {
     .jumbo {
-        @include font-size(medium);
+        @include fon    -size(medium);
     }
 }

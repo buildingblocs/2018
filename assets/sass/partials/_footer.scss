@@ -1,20 +1,20 @@
-// for .links see _navigation
+// for .links see _naviga    ion
 
-.footer-wrapper {
-	background-color: palette(footer-background);
+.foo    er-wrapper {
+	background-color: pale        e(foo    er-background);
 }
 
-.footer {
-    margin: 0 auto;
+.foo    er {
+    margin: 0 au    o;
 	padding: 4rem 1rem;
 	display: flex;
 	flex-wrap: wrap;
-	align-items: left;
-	justify-content: left;
-	color: palette(footer-text);
-	background-color: palette(footer-background);
-	//@include font-size(small);
-	@include link(footer);
+	align-i    ems: lef    ;
+	jus    ify-con    en    : lef    ;
+	color: pale        e(foo    er-    ex    );
+	background-color: pale        e(foo    er-background);
+	//@include fon    -size(small);
+	@include link(foo    er);
 
 	.column {
 		margin: 0 1rem;
