@@ -28,7 +28,7 @@ Stay tuned for more details!
 
 ## Fringe Games
 
-Play games written in Python while getting to know other participants! Battleship, Dots and Boxes, Snake, Space Invaders, Sudoku, Card games, the possibilities are boundless! More details on Fringe Games will be uploaded. 
+Play games written in Python while getting to know other participants! Battleship, Dots and Boxes, Snake, Space Invaders, Sudoku, Card games...the possibilities are boundless! More details on Fringe Games will be uploaded. 
 
 ## Lightning Talks
 
