@@ -10,7 +10,7 @@ Held from March to July, the Pre-Event is a special addition to Buildingblocs 20
 
 Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! Links to the Coursemology challenges will be uploaded here in March. Do check back soon!
 
-[Click here](tinyurl.com/bbcs18euler) to sign up for the Coursemology!
+[Click here]({{ site.baseurl }}/register) to sign up for the Coursemology!
 
 ## Online workshop
 
