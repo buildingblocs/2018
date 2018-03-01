@@ -34,7 +34,7 @@ Here is where the event lives! Workshop materials and potentially competition an
 
 The home. Where the heart of the event is; The fringe games, competition and prizes ceremony happens here, at NUS School of Computing! This year's Buildingblocs is also held in conjuction with "Python APAC 2018", making it a rare opportunity not to be missed.  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
-## Sponsored by
+## Supported by
 
 <section class="organisers">
     {% for organiser in site.data.sponsors %}
