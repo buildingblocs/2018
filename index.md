@@ -10,7 +10,7 @@ layout: default
         </h1>
         <p>
             <a href="{{ site.baseurl }}/contact">{{ site.date }}, {{ site.location }}</a><br>
-            Online pre-event begins March
+            Online Pre-events begins March
         </p>
         <p><a class="btn" href="{{ site.baseurl }}/register">Register now!</a></p>
     </div>
@@ -24,9 +24,9 @@ Python powered web-pages! Experience how to set up server-side renders to host t
 
 ## Format
 
-Continuing the success of previous years, 2018 sees the expansion of BuildingBloCS in various sectors! This year, BuildingBloCS have extended its target audience to both the **A-level and O-level students**, allowing for more diverse interactions. Pre-Events leading up to the official event will also be held to better enhance students' learning, building them up for the final event. (and increase their  chances of winnings ;))
+Continuing the success of previous years, 2018 sees the expansion of BuildingBloCS in various sectors! This year, BuildingBloCS have extended its target audience to both the **A-level and O-level students**, allowing for more diverse interactions. Pre-Events leading up to the official event will also be held to better enhance students' learning, building them up for the final event conference. (and increase their  chances of winnings ;))
 
-## Pre-Event
+## Pre-Events
 
 Here is where the event lives! **Workshop materials, quizzes, fun facts and the lucky draw criterias** will all be hosted here. The Pre-event is definitely one not to be missed. [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
