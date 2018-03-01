@@ -28,7 +28,7 @@ Continuing the success of previous years, 2018 sees the expansion of BuildingBlo
 
 ## Pre-Events
 
-Here is where the event lives! **Workshop materials, quizzes, fun facts and the lucky draw criterias** will all be hosted here. The Pre-event is definitely one not to be missed. [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
+Here is where the event lives! **Workshop materials, quizzes, fun facts and the lucky draw criterias** will all be hosted here. The Pre-events are definitely not to be missed. [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event
 
