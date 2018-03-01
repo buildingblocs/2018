@@ -4,6 +4,7 @@ layout: default
 
 # Schedule
 
+<!--
 {% for day in site.data.schedule %}
 <h2>Day {{ day.day }}</h2>
 <table>
@@ -15,6 +16,9 @@ layout: default
     {% endfor %}
 </table> 
 {% endfor %}
+-->
+
+To be announced.
 
 # Details
 
