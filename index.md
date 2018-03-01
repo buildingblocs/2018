@@ -28,11 +28,11 @@ Continuing the success of previous years, 2018 sees the expansion of Buildingblo
 
 ## Pre-Event
 
-Here is where the event lives! Workshop materials and potentially competition and lucky draw criteria is all here, so don’t miss out! Accompanying will be some fun facts and quizzes! [More details &raquo;]({{ site.baseurl }}/pre-event)
+Here is where the event lives! Workshop materials and potentially competition and lucky draw criteria is all here, so don’t miss out! Accompanying will be some fun facts and quizzes! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event
 
-The home. Where the heart of the event is; The fringe games, competition and prizes ceremony happens here, at NUS School of Computing! This year's Buildingblocs is also held in conjuction with "Python APAC 2018", making it a rare opportunity not to be missed.  [More details &raquo;]({{ site.baseurl }}/event)
+The home. Where the heart of the event is; The fringe games, competition and prizes ceremony happens here, at NUS School of Computing! This year's Buildingblocs is also held in conjuction with "Python APAC 2018", making it a rare opportunity not to be missed.  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
 ## Sponsored by
 
