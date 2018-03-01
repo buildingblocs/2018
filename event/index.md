@@ -17,7 +17,9 @@ layout: default
 {% endfor %}
 
 # Details
-Interested? [Click here](tinyurl.com/bbcs18main) to register for it now!
+
+Interested? [Click here]({{ site.baseurl }}/register) to register for it now!
+
 Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notifications on event updates :) 
 
 ## Competition
