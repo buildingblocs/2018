@@ -4,7 +4,7 @@ layout: default
 
 # Pre-event
 
-Held from March to July, the Pre-Event is a special addition to Buildingblocs 2018. It is a separate component from the main event but serves as a lead-up to the event by improving participants' coding proficiency.
+Held from March to July, the Pre-Event is a special addition to BuildingBloCS 2018. It is a separate component from the main event but serves as a lead-up to the event by improving participants' coding proficiency. 
 
 ## Coursemology
 
