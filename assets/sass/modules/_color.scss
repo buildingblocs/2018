@@ -1,66 +1,66 @@
-$    heme-color: #ff8d47;
-$    heme-dark-color: mix($    heme-color, black, 90%);
-$    heme-secondary-color: $    heme-dark-color;
-$    ex    -color: black;
-$background-color: whi    e;
+$theme-color: #ff8d47;
+$theme-dark-color: mix($theme-color, black, 90%);
+$theme-secondary-color: $theme-dark-color;
+$text-color: black;
+$background-color: white;
 
 $nav-background-fade: 95%;
 
-$pale        e: (
+$palette: (
 	background: $background-color,
-	    ex    : $    ex    -color,
-	    ex    -blur: $    heme-secondary-color,
-	sepra    or: mix($    heme-secondary-color, $background-color, 33.3%),
-	brand: $    heme-color,
-	brand-inver    : whi    e,
-	nav-background: mix($background-color,     ransparen    , $nav-background-fade),
-	nav-    ex    : $    heme-color,
-	nav-inver    -background: mix($    heme-color,     ransparen    , $nav-background-fade),
-	nav-inver    -    ex    : whi    e,
-	foo    er-background: whi    e,
-	foo    er-    ex    : $    heme-secondary-color,
-	blockquo    e-bar: $    heme-color,
-	highligh    -background: $    heme-color,
-	highligh    -    ex    : whi    e,
+	text: $text-color,
+	text-blur: $theme-secondary-color,
+	seprator: mix($theme-secondary-color, $background-color, 33.3%),
+	brand: $theme-color,
+	brand-invert: white,
+	nav-background: mix($background-color, transparent, $nav-background-fade),
+	nav-text: $theme-color,
+	nav-invert-background: mix($theme-color, transparent, $nav-background-fade),
+	nav-invert-text: white,
+	footer-background: white,
+	footer-text: $theme-secondary-color,
+	blockquote-bar: $theme-color,
+	highlight-background: $theme-color,
+	highlight-text: white,
 );
 
-@func    ion pale        e($name:     ransparen    ) {
-	@re    urn map-ge    ($pale        e, $name);
+@function palette($name: transparent) {
+	@return map-get($palette, $name);
 }
 
-$link-pale        e: (
-	defaul    : (
-		link: $    heme-color,
-		hover: $    ex    -color,
-		ac    ive: $    ex    -color,
+$link-palette: (
+	default: (
+		link: $theme-color,
+		hover: $text-color,
+		active: $text-color,
 	),
 	flip: (
-		link: $    ex    -color,
-		hover: $    heme-color,
-		ac    ive: $    heme-color,
+		link: $text-color,
+		hover: $theme-color,
+		active: $theme-color,
 	),
-	inver    : (
-		link: mix($background-color,     ransparen    , 100%),
-		hover: mix($background-color,     ransparen    , 66.7%),
-		ac    ive: mix($background-color,     ransparen    , 66.7%),
+	invert: (
+		link: mix($background-color, transparent, 100%),
+		hover: mix($background-color, transparent, 66.7%),
+		active: mix($background-color, transparent, 66.7%),
 	),
 	nav: (
-		link: $    heme-color,
-		hover: pale        e(nav-    ex    ),
-		ac    ive: pale        e(nav-    ex    ),
+		link: $theme-color,
+		hover: palette(nav-text),
+		active: palette(nav-text),
 	),
-	nav-inver    : (
-		link: mix(pale        e(nav-inver    -    ex    ), pale        e(nav-inver    -background), 100%),
-		hover: mix(pale        e(nav-inver    -    ex    ), pale        e(nav-inver    -background), 66.7%),
-		ac    ive: mix(pale        e(nav-inver    -    ex    ), pale        e(nav-inver    -background), 66.7%),
+	nav-invert: (
+		link: mix(palette(nav-invert-text), palette(nav-invert-background), 100%),
+		hover: mix(palette(nav-invert-text), palette(nav-invert-background), 66.7%),
+		active: mix(palette(nav-invert-text), palette(nav-invert-background), 66.7%),
 	),
-	foo    er: (
-		link: mix(pale        e(foo    er-    ex    ), pale        e(foo    er-background), 100%),
-		hover: mix(pale        e(foo    er-    ex    ), pale        e(foo    er-background), 66.7%),
-		ac    ive: mix(pale        e(foo    er-    ex    ), pale        e(foo    er-background), 66.7%),
+	footer: (
+		link: mix(palette(footer-text), palette(footer-background), 100%),
+		hover: mix(palette(footer-text), palette(footer-background), 66.7%),
+		active: mix(palette(footer-text), palette(footer-background), 66.7%),
 	),
 );
 
-@func    ion link-pale        e($    ype: defaul    , $role: link) {
-	@re    urn map-ge    (map-ge    ($link-pale        e, $    ype), $role);
+@function link-palette($type: default, $role: link) {
+	@return map-get(map-get($link-palette, $type), $role);
 }

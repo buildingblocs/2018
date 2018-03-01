@@ -1,50 +1,50 @@
 main {
     padding: 0 2rem;
 	@include paragraphing(main);
-	min-heigh    : 50vh;
+	min-height: 50vh;
 
-    padding-    op: 6.4rem;
+    padding-top: 6.4rem;
 
-	//.con    en     {
+	//.content {
 		ul, ol {
-			padding-lef    : 1em;
+			padding-left: 1em;
 		}
 	//}
 
-    sec    ion {
+    section {
         margin: 1rem 0;
     }
 
-	.pull-righ     {
-		floa    : righ    ;
+	.pull-right {
+		float: right;
 	}
-	.pull-lef     {
-		floa    : lef    ;
+	.pull-left {
+		float: left;
 	}
 	
 	.clearfix {
-		clear: bo    h;
+		clear: both;
 	}
 
 	.w100 {
-		wid    h: 100%;
+		width: 100%;
 	}
 	.w50 {
-		wid    h: 50%;
+		width: 50%;
 	}
 	.w30 {
-		wid    h: 30%;
+		width: 30%;
 	}
 	.w25 {
-		wid    h: 25%;
+		width: 25%;
 	}
 	.w23 {
-		wid    h: 23%;
+		width: 23%;
 	}
 	.w20 {
-		wid    h: 20%;
+		width: 20%;
 	}
 	.w15 {
-		wid    h: 15%;
+		width: 15%;
 	}
 }

@@ -1,22 +1,22 @@
-@impor     "vendor/rese    ";
+@import "vendor/reset";
 
-@impor     "modules/uni    s";
-@impor     "modules/color";
-@impor     "modules/    ypography";
+@import "modules/units";
+@import "modules/color";
+@import "modules/typography";
 
-@impor     "par    ials/base";
-@impor     "par    ials/    ypography";
-@impor     "par    ials/brand";
+@import "partials/base";
+@import "partials/typography";
+@import "partials/brand";
 
-@impor     "par    ials/    ables";
-@impor     "par    ials/links";
-@impor     "par    ials/b    n";
-@impor     "par    ials/responsive";
-@impor     "par    ials/compa    ibili    y";
+@import "partials/tables";
+@import "partials/links";
+@import "partials/btn";
+@import "partials/responsive";
+@import "partials/compatibility";
 
-@impor     "par    ials/naviga    ion";
-@impor     "par    ials/foo    er";
-@impor     "par    ials/con    en    ";
-@impor     "par    ials/jumbo";
+@import "partials/navigation";
+@import "partials/footer";
+@import "partials/content";
+@import "partials/jumbo";
 
-@impor     "par    ials/organisers";
+@import "partials/organisers";

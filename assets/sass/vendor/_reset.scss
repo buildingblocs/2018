@@ -1,48 +1,48 @@
-/* h        p://meyerweb.com/eric/    ools/css/rese    / 
+/* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
    License: none (public domain)
 */
 
-h    ml, body, div, span, apple    , objec    , iframe,
-h1, h2, h3, h4, h5, h6, p, blockquo    e, pre,
-a, abbr, acronym, address, big, ci    e, code,
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
-small, s    rike, s    rong, sub, sup,         , var,
-b, u, i, cen    er,
-dl, d    , dd, ol, ul, li,
-fieldse    , form, label, legend,
-    able, cap    ion,     body,     foo    ,     head,     r,     h,     d,
-ar    icle, aside, canvas, de    ails, embed, 
-figure, figcap    ion, foo    er, header, hgroup, 
-menu, nav, ou    pu    , ruby, sec    ion, summary,
-    ime, mark, audio, video {
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	fon    -size: 100%;
-	fon    : inheri    ;
-	ver    ical-align: baseline;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
-/* HTML5 display-role rese     for older browsers */
-ar    icle, aside, de    ails, figcap    ion, figure, 
-foo    er, header, hgroup, menu, nav, sec    ion {
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
 	display: block;
 }
 body {
-	line-heigh    : 1;
+	line-height: 1;
 }
 ol, ul {
-	lis    -s    yle: none;
+	list-style: none;
 }
-blockquo    e, q {
-	quo    es: none;
+blockquote, q {
+	quotes: none;
 }
-blockquo    e:before, blockquo    e:af    er,
-q:before, q:af    er {
-	con    en    : '';
-	con    en    : none;
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
 }
-    able {
+table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
