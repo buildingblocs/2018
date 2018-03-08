@@ -2,8 +2,8 @@
 
 title: "BuildingBloCS"
 tagline: "High School Computer Science Conference"
-date: "1 - 2 June"
-location: "NUS SoC COM1"
+date: "1 June"
+location: "NUS School of Computing COM1"
 
 exclude:
   - README.md
