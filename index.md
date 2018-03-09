@@ -16,7 +16,7 @@ layout: default
     </div>
 </section>
 
-> Eight &lsquo;A&rsquo; level and twenty-six &lsquo;O&lsquo; level school computing students come together to build an infocomm-empowered future! 
+> &lsquo;A&rsquo; level / Integrated Programme and &lsquo;O&lsquo; level Computing students come together to build an infocomm-empowered future! 
 
 ## Theme: OYEA Python!
 
