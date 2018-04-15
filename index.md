@@ -28,12 +28,13 @@ Continuing the success of the inaugural BuildingBloCS '17, 2018 sees the expansi
 
 ## Pre-events
 
+> The [weekly online workshop]({{ site.baseurl }}/pre-event/workshop) has begun. Be sure to participate in the weekly Q&As!
+
 **Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing and Python prowess and are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
 ## Event
 
 The home. Where the heart of the event is; A line up of **fringe games, lightning talks and a final competition** will be conducted on the **1 June at the NUS School of Computing**! The event will close with a **Lucky Draw** and an **Award Ceremony**. BuildingBloCS '18 is also held in conjuction with **"Python APAC 2018"**, connecting participants to the wider Pythonista community!  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
-
 
 ## Organised by
 

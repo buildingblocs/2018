@@ -6,13 +6,15 @@ layout: default
 
 Held from March to July, the Pre-Event is a special addition to BuildingBloCS 2018. It is a separate component from the main event conference but serves as a lead-up to the conference by improving participants' coding proficiency. 
 
+[Register if you haven't &raquo;]({{ site.baseurl }}/register#pre-events)
+
 ## Coursemology
 
-Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! Links to the Coursemology challenges will be uploaded here in March. Do check back soon!
+Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! Links to the Coursemology challenges will be uploaded here soon!
 
-[Click here]({{ site.baseurl }}/register) to sign up for the Coursemology!
+## Online Workshop
 
-## Online workshop
+<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Get started</a>
 
-More details would be released soon. Follow [@buildingblocs18](https://instagram.com/buildingblocs18) to be notified.
+The online workshop is designed to help aid participants for the main competition during the Conference Day. Participants are first advised to **go through the lessons** materials posted at their own convenience. A **Q&A session** will then be held **weekly at *ClassDo*** by the respective speakers to help clarify participants’ doubts of the particular week’s topic.
 
