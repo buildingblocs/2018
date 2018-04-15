@@ -28,7 +28,7 @@ Continuing the success of the inaugural BuildingBloCS '17, 2018 sees the expansi
 
 ## Pre-events
 
-> The [weekly online workshop]({{ site.baseurl }}/pre-event/workshop) has begun. Be sure to participate in the weekly Q&As!
+> The [weekly online workshop]({{ site.baseurl }}/pre-event/workshop) has begun. Be sure to participate in the Q&As!
 
 **Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing and Python prowess and are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
