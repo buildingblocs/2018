@@ -11,7 +11,7 @@ An invitation link to the *ClassDo* session would be emailed to participants as 
 ## Week 1: How to Set-Up a Front-End Interface
 
 <a class="btn" href="https://docs.google.com/document/d/13oGbwIFS9wU8EUkcr1SgsJeAX3tQTan1U3RD1M-LiV4/view">View Lesson 1</a>
-<a class="btn disabled" href="https://docs.google.com/document/d/1uc7rQSSzfillXUqPKKTXPD9f2Ld88i64I-Xxa-1Jqjg/view">View Lesson 2</a>
+<a class="btn" href="https://docs.google.com/document/d/1uc7rQSSzfillXUqPKKTXPD9f2Ld88i64I-Xxa-1Jqjg/view">View Lesson 2</a>
 <a class="btn disabled" href="#">Join Q&A</a>
 
 *Q&A Date:* 29 April (Sunday), 2pm-5pm (tentative)

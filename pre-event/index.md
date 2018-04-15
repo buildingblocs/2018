@@ -14,7 +14,7 @@ Challenge yourself with **Project Euler** questions and hone your Python program
 
 ## Online Workshop
 
-<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Get started</a>
+<a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Get started!</a>
 
 The online workshop is designed to help aid participants for the main competition during the Conference Day. Participants are first advised to **go through the lessons** materials posted at their own convenience. A **Q&A session** will then be held **weekly at *ClassDo*** by the respective speakers to help clarify participants’ doubts of the particular week’s topic.
 
