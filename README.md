@@ -12,7 +12,7 @@
 ### Setup
 
 ```
-git clone -b mybranch --single-branch git@github.com:serverwentdown/buildingblocs.github.io.git
+git clone git@github.com:serverwentdown/buildingblocs.github.io.git
 ```
 
 Install project dependencies:
@@ -23,7 +23,7 @@ yarn install
 
 ### Building CSS from Sass
 
-Start `grunt` (tool to build `.scss` to `.css`) and make it watch for file changes:
+Only required if you are modifying stylesheets. Start `grunt` (tool to build `.scss` to `.css`) and make it watch for file changes:
 
 ```
 yarn build watch
