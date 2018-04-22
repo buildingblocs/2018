@@ -12,7 +12,7 @@ An invitation link to the *ClassDo* session would be emailed to participants as 
 
 <a class="btn" target="_blank" href="https://docs.google.com/document/d/13oGbwIFS9wU8EUkcr1SgsJeAX3tQTan1U3RD1M-LiV4/view">View Lesson 1</a>
 <a class="btn" target="_blank" href="https://docs.google.com/document/d/1uc7rQSSzfillXUqPKKTXPD9f2Ld88i64I-Xxa-1Jqjg/view">View Lesson 2</a>
-<a class="btn disabled" target="_blank" href="#">Join Q&A</a>
+<a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 
 *Q&A Date:* 29 April (Sunday), 2pm-5pm (tentative)
 
@@ -32,9 +32,9 @@ We explore some basic understanding and skills sets in the realm of HTML and CSS
 
 ## Week 2: Python Programming for Beginners
 
-<a class="btn disabled" target="_blank" href="#">View Lesson 3</a>
-<a class="btn disabled" target="_blank" href="#">View Lesson 4</a>
-<a class="btn disabled" target="_blank" href="#">Join Q&A</a>
+<a class="btn" target="_blank" href="https://docs.google.com/document/d/1smROx_-7g1r6pZFl1wPNKoB-essFN0TAArIQ4LhM8R0/view">View Lesson 3</a>
+<a class="btn" target="_blank" href="https://docs.google.com/document/d/18Jd9bro28SGY7Odu_GVweXiWJPfx9YngvnqHYW6tuY8/view">View Lesson 4</a>
+<a class="btn" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 
 *Q&A Date:* 6 May (Sunday) , 2pm-5pm (tentative)
 
@@ -52,7 +52,7 @@ We explore how to code programs using Python and its different tools such as var
 ## Week 3: Building a Python Web-App with Flask
 
 <a class="btn disabled" target="_blank" href="#">View Lesson 5</a>
-<a class="btn disabled" target="_blank" href="#">Join Q&A</a>
+<a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 
 *Q&A Date:* 13 May (Friday), 2pm-5pm (tentative)
 
