@@ -51,7 +51,7 @@ We explore how to code programs using Python and its different tools such as var
 
 ## Week 3: Building a Python Web-App with Flask
 
-<a class="btn disabled" target="_blank" href="#">View Lesson 5</a>
+<a class="btn disabled" target="_blank" href="https://docs.google.com/presentation/d/1HMm89YIqVsDyFNwu09XiTxFEtUD6Qf_jbdzo1Ue2Uss/view">View Lesson 5</a>
 <a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 
 *Q&A Date:* 13 May (Friday), 2pm-5pm (tentative)
