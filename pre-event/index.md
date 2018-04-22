@@ -4,13 +4,13 @@ layout: default
 
 # Pre-events
 
-Held from March to July, the Pre-Event is a special addition to BuildingBloCS 2018. It is a separate component from the main event conference but serves as a lead-up to the conference by improving participants' coding proficiency. 
+Held from April to May, the Pre-Event is a special addition to BuildingBloCS 2018. It is a separate component from the main event conference but serves as a lead-up to the conference by improving participants' coding proficiency. 
 
 [Register if you haven't &raquo;]({{ site.baseurl }}/register#pre-events)
 
 ## Coursemology
 
-Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! Links to the Coursemology challenges will be uploaded here soon!
+Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! (Upon registration, participants will receive an Invitation to the course)
 
 ## Online Workshop
 
