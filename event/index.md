@@ -28,13 +28,12 @@ Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notif
 
 ## Competition
 
-Stay tuned for more details! 
+**Implementation of a chatbot**
 
-| Column 1 | Column 2 |
-|----------|----------|
-| foo      | bar      |
-| baz      | qux      |
-| quux     | quuz     |
+| Criteria | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
 
 
 ## Fringe Games
