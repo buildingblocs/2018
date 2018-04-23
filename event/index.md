@@ -28,12 +28,16 @@ Follow [@buildingblocs18](https://instagram.com/buildingblocs18) for quick notif
 
 ## Competition
 
-**Implementation of a chatbot**
+# Implementation of a chatbot
 
-| Criteria | Description |
+| Criteria | Marks |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Coding Proficiency | 40 |
+| Capabilities of Chatbot | 40 |
+| Relevance to Theme | 20 |
+| Bonus | 10 |
+| "Personality" | 10 |
+| Total | 100 + 20 = **120** |
 
 
 ## Fringe Games
