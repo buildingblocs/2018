@@ -4,9 +4,8 @@ layout: default
 
 # Schedule
 
-<!--
 {% for day in site.data.schedule %}
-<h2>Day {{ day.day }}</h2>
+{% if site.data.schedule.size > 1 %}<h2>Day {{ day.day }}</h2>{% endif %}
 <table>
     {% for activity in day.activities %}
     <tr>
@@ -16,9 +15,6 @@ layout: default
     {% endfor %}
 </table> 
 {% endfor %}
--->
-
-To be announced.
 
 # Details
 

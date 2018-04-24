@@ -1,24 +1,14 @@
 - day: 1
   activities:
-  - time: 0800-0900
-    title: Registration
-  - time: 0900-1000
+  - time: 0830 - 0900
+    title: Registration & Breakfast & Team Formation
+  - time: 0900 - 0915
+    title: Opening & Entertainment
+  - time: 0915 - 1100
     title: Talks
-  - time: 1000-1045
-    title: Games
-  - time: 1045-1200
-    title: Lightning Talks
-  - time: 1200-1300
-    title: Lunch
-- day: 2
-  activities:
-  - time: 0800-0900
-    title: Registration
-  - time: 0900-1000
-    title: Talks
-  - time: 1000-1045
-    title: Games
-  - time: 1045-1200
-    title: Lightning Talks
-  - time: 1200-1300
-    title: Lunch
+  - time: 1100 - 1300
+    title: Networking & Lunch & Games
+  - time: 1600 - 1715
+    title: Talks & Judging (concurrent)
+  - time: 1715 - 1730
+    title: Awards & Group Photo & Closing
