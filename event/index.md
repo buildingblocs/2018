@@ -32,8 +32,7 @@ Stay Tuned for more details!!
 We have **8 exciting games** lined up for you in BuildingBloCS 2018- From decoding secret passages, to solving puzzles, the possibilities are boundless! 
 Participants will be pushed to work together and compete against other teams in a race against time.
 
-Details and instructions of the fringe games will be released on the day itself for an element of surprise.
-(***The Best Performing Team will win attractive prizes ;)***)
+Details and instructions of the fringe games will be released on the day itself for an element of surprise. **The Best Performing Team will win attractive prizes ;)**
 
 ## Lightning Talks
 
