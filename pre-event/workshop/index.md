@@ -8,6 +8,8 @@ The online workshop is designed to help aid participants for the main competitio
 
 An invitation link to the *ClassDo* session would be emailed to participants as well as posted onto the website before the week’s session.
 
+***Non-participants of BuildingBloCS:*** Feel free to join us in our live sessions! Simply enter into any one of our tutorials and state your email. An invitation will then be sent to you :) 
+
 ## Week 1: How to Set-Up a Front-End Interface
 
 <a class="btn" target="_blank" href="https://docs.google.com/document/d/13oGbwIFS9wU8EUkcr1SgsJeAX3tQTan1U3RD1M-LiV4/view">View Lesson 1</a>
