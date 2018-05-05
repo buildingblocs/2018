@@ -72,9 +72,11 @@ This week, we combine what we learn in the previous 2 weeks, and learn how to di
 
 ## Week 4: Final Event Q&A
 
-If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
-
 <a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 
 *Q&A Date:* 27 May (Sunday), 2pm-5pm 
+
+If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
+
+
 
