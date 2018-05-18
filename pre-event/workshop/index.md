@@ -83,7 +83,7 @@ If the demand is high, we will also open up a final consultation session to answ
 
 We will be hosting a full physical workshop to round-up everything within 2 hours! From how to create a webpage using HTML to how to build a chatbot program using Python, this comprehensive workshop will be providing a crashcourse for BuildingBloCS 2018's competition deliverables! 
 
-> Sign up <a href= "https://docs.google.com/forms/d/e/1FAIpQLSeqlb4NNQWaBVoHic2InpwqMzSqIeJQO_5PXXdFWaT1ln0Usw/viewform" >here</a> for the full workshop!
+> Sign up <a href= "https://docs.google.com/forms/d/e/1FAIpQLSeqlb4NNQWaBVoHic2InpwqMzSqIeJQO_5PXXdFWaT1ln0Usw/viewform" >here</a> for the full workshop **by 23rd May**!
 
 *Date:* 25 May (Friday) 
 
