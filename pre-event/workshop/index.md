@@ -70,7 +70,7 @@ This week, we combine what we learn in the previous 2 weeks, and learn how to di
 * HTTP Protocols
 
 
-## Week 4: Final Event Q&A
+## Week 4: Finale Workshop
 
 <a class="btn disabled" target="_blank" href="https://learn.classdo.com/buildingblocs/">Join Q&A</a>
 
@@ -79,4 +79,12 @@ This week, we combine what we learn in the previous 2 weeks, and learn how to di
 If the demand is high, we will also open up a final consultation session to answer any questions you have for the actual competiton on 1 June!
 
 
+# Physical Workshop
 
+We will be hosting a full physical workshop to round-up everything within 2 hours! From how to create a webpage using HTML, to how to build a chatbot program using Python. 
+
+*Date:* 25 May (Friday) 
+*Time:* TBC 
+*Venue:* Dunman High School Computer Lab S1
+
+> Sign up <a href= "https://docs.google.com/forms/d/e/1FAIpQLSeqlb4NNQWaBVoHic2InpwqMzSqIeJQO_5PXXdFWaT1ln0Usw/viewform" >here</a> for the full workshop!
