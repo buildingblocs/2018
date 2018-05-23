@@ -87,7 +87,7 @@ We will be hosting a full physical workshop to round-up everything within 2 hour
 
 *Date:* 28 May (Monday) 
 
-*Time:*  8.30am to 11.30am
+*Time:*  8.30am-11.30am
 
 *Venue:* Dunman High School Computer Lab S1
 
