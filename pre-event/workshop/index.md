@@ -85,9 +85,9 @@ We will be hosting a full physical workshop to round-up everything within 2 hour
 
 > Sign up <a href= "https://docs.google.com/forms/d/e/1FAIpQLSeqlb4NNQWaBVoHic2InpwqMzSqIeJQO_5PXXdFWaT1ln0Usw/viewform" >here</a> for the full workshop **by 23rd May**!
 
-*Date:* 25 May (Friday) 
+*Date:* 28 May (Monday) 
 
-*Time:* TBC (depending on your responses :))
+*Time:*  8.30am to 11.30am
 
 *Venue:* Dunman High School Computer Lab S1
 
