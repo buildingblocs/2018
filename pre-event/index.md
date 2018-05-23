@@ -12,9 +12,9 @@ Held from April to May, the Pre-Event is a special addition to BuildingBloCS 201
 
 Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! (Upon registration, participants will receive an Invitation to the course)
 
-## Online Workshop
+## Workshop
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Get started!</a>
 
-The online workshop is designed to help aid participants for the main competition during the Conference Day. Participants are first advised to **go through the lessons** materials posted at their own convenience. A **Q&A session** will then be held **weekly at *ClassDo*** by the respective speakers to help clarify participants’ doubts of the particular week’s topic.
+The workshop segment is designed to help aid participants for the main competition during the Conference Day. Participants are first advised to **go through the lessons** materials posted at their own convenience. A **Q&A session** will then be held **weekly at *ClassDo*** by the respective speakers to help clarify participants’ doubts of the particular week’s topic.
 
