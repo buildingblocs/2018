@@ -9,7 +9,7 @@ layout: default
             <span class="huge">2018</span>
         </h1>
         <p>
-            <a href="{{ site.baseurl }}/contact">{{ site.date }}, {{ site.location }}</a>
+            {{ site.date }}, {{ site.location }}
         </p>
         <p>
             <a class="btn" href="{{ site.baseurl }}/contact#location">Get there!</a>
