@@ -12,7 +12,10 @@ layout: default
             <a href="{{ site.baseurl }}/contact">{{ site.date }}, {{ site.location }}</a><br>
             Online Pre-events begins March
         </p>
-        <p><a class="btn" href="{{ site.baseurl }}/register">Register now!</a></p>
+        <p>
+		    <a class="btn" href="{{ site.baseurl }}/contact#location">Get there</a>
+		    <a href="{{ site.baseurl }}/register">Register now!</a>
+        </p>
     </div>
 </section>
 
@@ -27,8 +30,6 @@ Experience and share the Python-powered web with the world!
 Continuing the success of the inaugural BuildingBloCS '17, 2018 sees the expansion of BuildingBloCS in various sectors! This year, BuildingBloCS expands its target audience to both **O-level and A-level Computing students**. Pre-events leading up to the official conference will also enhance students' engagement, building them up for the finale where all will convene at NUS School of Computing for a day of fun, interaction, learning and prizes!
 
 ## Pre-events
-
-> The [weekly online workshop]({{ site.baseurl }}/pre-event/workshop) has begun. Be sure to participate in the Q&As!
 
 **Workshop materials, programming puzzles, pop quizzes, fun facts** will be here. The pre-events will boost your Computing and Python prowess and are definitely not to be missed! [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/pre-event)
 
