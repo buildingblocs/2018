@@ -12,6 +12,8 @@ Held from April to May, the Pre-Event is a special addition to BuildingBloCS 201
 
 Challenge yourself with **Project Euler** questions and hone your Python programming skills and mathematical knowledge. Also stand chances to win **attractive prizes** with your participation! (Upon registration, participants will receive an Invitation to the course)
 
+[The results of Coursemology are out &raquo;]({{ site.baseurl }}/pre-event/coursemology)
+
 ## Workshop
 
 <a class="btn" href="{{ site.baseurl }}/pre-event/workshop">Get started!</a>
