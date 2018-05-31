@@ -9,12 +9,10 @@ layout: default
             <span class="huge">2018</span>
         </h1>
         <p>
-            <a href="{{ site.baseurl }}/contact">{{ site.date }}, {{ site.location }}</a><br>
-            Online Pre-events begins March
+            <a href="{{ site.baseurl }}/contact">{{ site.date }}, {{ site.location }}</a>
         </p>
         <p>
-            <a class="btn" href="{{ site.baseurl }}/contact#location">Get there!</a> &bull;
-            <a href="{{ site.baseurl }}/register">Register</a>
+            <a class="btn" href="{{ site.baseurl }}/contact#location">Get there!</a>
         </p>
     </div>
 </section>
