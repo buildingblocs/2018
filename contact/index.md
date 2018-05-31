@@ -8,9 +8,15 @@ Drop an email to [buildingblocs@computing.sg](mailto:buildingblocs@computing.sg)
 
 # Location
 
-NUS School Of Computing (COM 1)<br>
+NUS School Of Computing (LT15)<br>
 13 Computing Drive<br>
 Singapore 117417
+
+## Getting there
+
+If you are coming from COM1 Level 2, exit through the left door, walk past the digital design lab and follow the path up the two flights of steps. You would be outside LT15.
+
+If you are outside COM1, there is a shortcut on the left of the entrance that would bring you to outside the digital design lab. 
 
 ## Nearest MRT
 
