@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 # Contact
@@ -17,6 +18,8 @@ Singapore 117417
 If you are coming from COM1 Level 2, exit through the left door, walk past the digital design lab and follow the path up the two flights of steps. You would be outside LT15.
 
 If you are outside COM1, there is a shortcut on the left of the entrance that would bring you to outside the digital design lab. 
+
+See you there! 
 
 ## Nearest MRT
 
