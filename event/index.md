@@ -39,5 +39,3 @@ Details and instructions of the fringe games will be released on the day itself 
 
 <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
 
-<!-- Congrats you found me! Here's your reward: -->
-<!-- <a href="https://photos.app.goo.gl/edp1fDSmZhrR3GW03">Entire Album</a> -->
