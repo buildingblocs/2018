@@ -37,4 +37,6 @@ Details and instructions of the fringe games will be released on the day itself 
 
 # Photos
 
+<a class="btn" href="http://0xce.cf/utvb">View Album</a>
 <a class="btn" href="http://0xce.cf/w81y">Entire Album</a>
+
