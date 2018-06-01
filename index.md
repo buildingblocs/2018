@@ -39,8 +39,8 @@ The home. Where the heart of the event is; A line up of **fringe games, talks an
 ### Photos
 
 <div style="text-align: center">
-  <a class="btn" href="http://0xce.cf/utvb">View Album</a>
-  <a class="btn" href="http://0xce.cf/w81y">Entire Album</a>
+  <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
+  <a class="btn" href="https://photos.app.goo.gl/edp1fDSmZhrR3GW03">Entire Album</a>
 </div>
 
 ## Previously...
