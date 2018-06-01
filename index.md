@@ -36,12 +36,13 @@ Continuing the success of the inaugural BuildingBloCS '17, 2018 sees the expansi
 
 The home. Where the heart of the event is; A line up of **fringe games, talks and a final competition** will be conducted on the **1 June at the NUS School of Computing**! The event will close with a **Lucky Draw** and an **Award Ceremony**. BuildingBloCS '18 is also held in conjuction with **Python APAC 2018**, connecting participants to the wider Pythonista community!  [More&nbsp;details&nbsp;&raquo;]({{ site.baseurl }}/event)
 
-### Photos
-
-<div style="text-align: center">
+<div style="font-size: 1.8em; text-align: center">
   <a class="btn" href="https://photos.app.goo.gl/cntLndL2gY9cu0jK2">View Album</a>
-  <a class="btn" href="https://photos.app.goo.gl/edp1fDSmZhrR3GW03">Entire Album</a>
+
+  <!-- Congrats you found me! Here's your reward: -->
+  <!-- <a href="https://photos.app.goo.gl/edp1fDSmZhrR3GW03">Entire Album</a> -->
 </div>
+  
 
 ## Previously...
 
