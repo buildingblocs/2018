@@ -1,5 +1,6 @@
 ---
 layout: default
+published: true
 ---
 
 # Schedule
@@ -33,3 +34,7 @@ We have **8 exciting games** lined up for you in BuildingBloCS 2018- From decodi
 Participants will be pushed to work together and compete against other teams in a race against time.
 
 Details and instructions of the fringe games will be released on the day itself for an element of surprise. **The Best Performing Team will win attractive prizes ;)**
+
+# Photos
+
+<a class="btn" href="http://0xce.cf/w81y">Entire Album</a>
